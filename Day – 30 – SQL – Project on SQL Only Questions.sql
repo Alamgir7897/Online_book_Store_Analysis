@@ -1,5 +1,4 @@
 
-
 -- 1) Retrieve all books in the "Fiction" genre:
 
 
